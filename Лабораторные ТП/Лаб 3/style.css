@@ -1,0 +1,52 @@
+#menu
+{
+    height: 480px;
+    width: 600px;
+    background: rgb(255, 187, 0);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menubuttons
+{
+  text-decoration: none;
+  background-color: #EEEEEE; 
+  color: #333333; 
+  width: 100px; 
+  height: 50px; 
+  border-style: solid solid solid solid; 
+  border-color: black; 
+  margin-top: 30px;
+  margin-left: 75px;
+  padding: 12px 12px 12px 12px;
+}
+
+.part1buttons
+{
+  text-decoration: none;
+  background-color: #EEEEEE; 
+  color: #333333; 
+  width: 100px; 
+  height: 50px; 
+  border-style: solid solid solid solid; 
+  border-color: black; 
+  margin-top: 15px;
+  padding: 12px 12px 12px 12px;
+}
+
+.part1BeginEnd
+{
+  font-size: 10px;
+  background-color: #EEEEEE; 
+  color: #333333; 
+  width: 80px; 
+  height: 40px; 
+  border-style: solid solid solid solid; 
+  border-color: black; 
+  padding: 12px 12px 12px 12px;
+}
+
+table{
+  position: relative;
+  top: -350px;
+}

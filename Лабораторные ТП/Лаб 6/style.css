@@ -1,0 +1,24 @@
+#box1
+{
+    height: 480px;
+    width: 650px;
+    background: rgb(255, 187, 0);
+    
+    margin-right: 700px;
+}
+
+#box2
+{
+    height: 480px;
+    width: 650px;
+    background: rgb(61, 61, 61);
+    margin-left: 650px;
+    position: relative;
+    top: -480px;
+    color: white; 
+}
+button
+{
+    position: relative;
+   
+}
